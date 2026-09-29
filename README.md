@@ -29,7 +29,7 @@ A comprehensive manual quality assurance test suite and defect audit for the [Sa
 | [`03-bug-reports/`](03-bug-reports/) | **Defect Reports** | Actionable bug reports with preconditions, reproduction steps, console logs, and visual evidence. |
 | [`04-rtm/`](04-rtm/rtm.md) | **Traceability Matrix** | Bi-directional mapping between business requirements, test cases, and logged defects. |
 | [`05-test-summary/`](05-test-summary/test-summary.md) | **Summary & Sign-Off** | Quantitative test execution metrics and release deployment verdict. |
-
+| [`06-qa-concepts/`](06-qa-concepts/functional-testing-matrix.md) | **Concepts Guide** | Real-world practical mapping of functional testing types (Smoke, Sanity, Integration, UAT). |
 ---
 
 ## Logged Defects Summary
